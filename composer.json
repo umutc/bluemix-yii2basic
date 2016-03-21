@@ -20,7 +20,7 @@
     "irc": "irc://irc.freenode.net/yii",
     "source": "https://github.com/umutc/bluemix-yii2basic"
   },
-  "minimum-stability": "master",
+  "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
     "yiisoft/yii2": ">=2.0.5",
