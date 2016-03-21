@@ -1,0 +1,29 @@
+{
+  "WEB_SERVER": "httpd",
+  "LIBDIR": ".",
+  "WEBDIR": "web",
+  "PHP_VERSION": "{PHP_56_LATEST}",
+  "PHP_EXTENSIONS": [
+    "bz2",
+    "zlib",
+    "openssl",
+    "curl",
+    "mcrypt",
+    "mbstring",
+    "pdo",
+    "zip",
+    "fileinfo",
+    "gd",
+    "imagick",
+    "intl",
+    "mailparse",
+    "memcache",
+    "memcached",
+    "mysqli",
+    "opcache",
+    "pdo_mysql",
+    "pdo_pgsql",
+    "pdo_sqlite",
+    "pgsql"
+  ]
+}
