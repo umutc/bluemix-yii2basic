@@ -2,9 +2,8 @@ Yii 2 Basic Project Template For IBM Bluemix CloudFoundry
 ============================
 1- Download project via zip</br>
 2- Open zip</br>
-3- Run this command</br>
-cd C:\xampp\htdocs\app -> folder of your project file</br>
-composer install</br>
+3- Run this command "cd C:\xampp\htdocs\app" -> folder of your project file</br>
+4- Run this command "composer install"       -> install depencies</br>
 ============================
 Before cf push open web/index.php and comment out the following two lines.</br>
 defined('YII_DEBUG') or define('YII_DEBUG', true);
