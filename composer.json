@@ -1,11 +1,14 @@
 {
   "name": "yiisoft/yii2-app-basic",
-  "description": "Yii 2 Basic Project Template",
+  "description": "Yii 2 Basic Project Template for IBM Bluemix CloudFoundry",
   "keywords": [
     "yii2",
     "framework",
     "basic",
-    "project template"
+    "project template",
+    "ibm",
+    "bluemix",
+    "cloud foundry"
   ],
   "homepage": "http://www.yiiframework.com/",
   "type": "project",
